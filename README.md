@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Fullstack Web Developer**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **fajarwn474@gmail.com**
 
